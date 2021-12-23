@@ -33,8 +33,3 @@ public class GetSubSequence {
         return mres;
     }
 }
-
-// input
-/* 
-abc
-*/
